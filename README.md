@@ -3,3 +3,4 @@
 ## [Click here for my flow-chart that details programming the addition of two numbers in C language called AdditionVisualization.pdf](https://github.com/Softwurxs/My-Portfolio-Repository/blob/main/AdditionVisualization.pdf)
 ## [Click here for adding variables in Python code!](https://github.com/Softwurxs/My-Portfolio-Repository/blob/main/Python.png) 
 ## [Click here for Flower object visualization chart!](ZacharyMaierFlowerClass.pdf) 
+## [Click here for my Python OOP and matching sample code with comments of the above Flower demonstration!](ZacharyMaierFlowerClass.pdf) 
