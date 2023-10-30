@@ -5,3 +5,4 @@
 ## [Click here for Flower object visualization chart!](ZacharyMaierFlowerClass.pdf) 
 ## [Click here for my Python OOP and matching code with comments of the above Flower demonstration!](PythonOOP.png) 
 ## [Click here to download the sample code for the above Python OOP referencing our previous Flower example!](Flower.py.docx) 
+## [Click here for a Network Design Chart I created to easily set-up remote employees!](NetworkDesign.PNG)
