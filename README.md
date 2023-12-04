@@ -7,3 +7,4 @@
 ## [Click here to download the sample code for the above Python OOP referencing our previous Flower example!](Flower.py.docx) 
 ## [Click here for a Network Design Chart I created to easily set-up remote employees!](NetworkDesign.PNG)
 ## [Click here for a Structured Query Language example detailing a product search of all items over $50.](SQLQuery.png)
+## [Click here for a Sample HTML code for a simple website.](MyHTML.png)
