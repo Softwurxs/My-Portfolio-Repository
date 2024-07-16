@@ -1,0 +1,21 @@
+// TestJobApplicant.java
+public class TestJobApplicant {
+    public static void main(String[] args) {
+        // Create job applicants
+        JobApplicant applicant1 = new JobApplicant("John", "1234567890", true, true, false, true);
+        JobApplicant applicant2 = new JobApplicant("Alice", "9876543210", true, true, true, false);
+        JobApplicant applicant3 = new JobApplicant("Bob", "5555555555", true, false, true, false);
+
+        // Test qualification for interview
+        printInterviewStatus(applicant1);
+        printInterviewStatus(applicant2);
+        printInterviewStatus(applicant3);
+    }
+
+    public static void printInterviewStatus(JobApplicant applicant) {
+        System.out.println("Applicant: " + applicant.getName());
+        System.out.println("Phone Number: " + applicant.getPhoneNumber());
+        System.out.println("Qualified for interview: " + (applicant.isQualifiedForInterview() ? "Yes" : "No"));
+        System.out.println();
+    }
+}
